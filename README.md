@@ -52,9 +52,12 @@ Run the main Python file:
 ```bash
 python bankers_gui.py
 ```
-#🖼 Screenshots
-/screenshots/main_window.png
-/screenshots/log_output.png
+# 🖼 Screenshots
+### Main Window
+![Main Window](main_window.png)
+
+### Log Output
+![Log Output](log_output.png)
 
 
 📘 How It Works (Short Explanation)
@@ -83,4 +86,4 @@ Request Algorithm
     Click Check Safety & Show Steps    
     Submit a request to test safety
 
-📄 License:  This project is open-source under the MIT License.
+📄 License: This project is open-source under the [MIT License](LICENSE).
